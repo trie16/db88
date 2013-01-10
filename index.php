@@ -47,6 +47,7 @@ include_once "config/cls_coba.php";
 				<td>Alamat : </td>
 				<td><input type="text" name="alamat" id="alamat"> </td>
 			</tr>
+			<td>coba cari saya</td>
 			<tr>
 				<td>No_tlp  </td>
 				<td><input type="text" name="no_tlp" id="no_tlp"> </td>
